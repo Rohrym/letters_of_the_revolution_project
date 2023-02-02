@@ -8,11 +8,7 @@ Research question: How could we, through the use of Social Network Analysis, cri
 
 The project repository has been thematically structured with there being a directory for the various data files, Gephi graphs, Juypiter Notebooks, Visualizations and various other materials. 
 
-- **data**
-- **gephi_files**
-- **juypiter_notebooks**
-- **visualizations**
-
-## Project Workflow
-
-![Workflow diagram](https://imgur.com/a/2Juk5iS)
+- **data** This directory contains the data files utilized by this project. 
+- **gephi_files** This directory contains two gephi files based on the network data generated: One raw version and one cooked version.
+- **juypiter_notebooks** This directory contains the main Juypiter Notebooks used for preprocessing the data, data exploration and statistical analysis. 
+- **visualizations** This directory contains the most important visualizations used within the project.  
